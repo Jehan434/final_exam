@@ -1,0 +1,9 @@
+[package]
+name = "rust_design_pattern"
+version = "0.1.0"
+authors = ["lpxxn <mi_duo@live.com>"]
+edition = "2018"
+
+[[bin]]
+name = "singleton"
+path = "./src/singleton.rs"

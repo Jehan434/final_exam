@@ -21,3 +21,6 @@
 #####   Problem 3: q3/q3
 ### * Each problem(q1, q2, and q3) can be rebuilt.
 ### * Source code are in "src/" directory.
+
+# Worked together
+### Group 5 members: Hitesh Agarwal, Jehan Alamri, Pushpak Chulet, Sultan Joury, Yejin Kim

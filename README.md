@@ -1,3 +1,6 @@
+Group members: Hitesh Agarwal, Jehan Alamri, Pushpak Chulet, Sultan Joury, Yejin Kim
+
+
 # Instruction for Basic Usage for RUST Program
 
 ## Install Rust
